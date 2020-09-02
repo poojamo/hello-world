@@ -1,4 +1,2 @@
 # hello-world
-
-Hello I love cookies and milk. Hurray!
-
+This is a nice feature. 
